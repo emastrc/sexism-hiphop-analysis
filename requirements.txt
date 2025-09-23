@@ -1,0 +1,41 @@
+# Project: Informationslinguistik 2 
+# Due: 30.09.2025
+# Description: Requirements for the project implementation
+
+# =====================================================
+# Requirements 
+# =====================================================
+
+# Data handling
+
+pandas           # for DataFrame handling
+numpy            # for numerical operations
+
+
+# PyTorch & Deep Learning
+
+torch            # core PyTorch library
+torchvision      # optional, for vision-related tasks (common companion)
+torchtext        # optional, if working with NLP datasets
+
+
+# HuggingFace / Transformers
+
+transformers     # model implementations, tokenizers, pipelines
+datasets         # HuggingFace datasets library
+tokenizers       # optional, sometimes needed separately
+# Data collator comes with transformers, no separate package
+
+
+# NLP Libraries
+
+nltk             # natural language toolkit
+spacy            # NLP library for tokenization, embeddings
+lyricsgenius     # API to get song lyrics
+
+
+# Machine Learning & Evaluation
+
+scikit-learn     # metrics, evaluation (accuracy, f1, precision, recall)
+matplotlib       # plotting
+tqdm             # progress bars

@@ -1,0 +1,92 @@
+artist_name,all_lex_words,num_lex_words,weighted_score,num_sexist_songs
+Nimo,"['bitch', 'bitch', 'bitch', 'bitch', 'bitch', 'bitch', 'bitch', 'bitch', 'bitch', 'bitch', 'bitch', 'bitch', 'bitch', 'bitch', 'bitch', 'bitch', 'bitch', 'bitch', 'bitch', 'bitch', 'bitch', 'bitch', 'bitch', 'bitch', 'bitch', 'bitch', 'bitch', 'bitch', 'bitch', 'bitch', 'bitch', 'bitch', 'bitch', 'bitch', 'bitch', 'bitch', 'bitch', 'bitch', 'bitch', 'bitch', 'bitch', 'bitch', 'bitch', 'bitch', 'bitch', 'bitch', 'bitch', 'bitch', 'bitch', 'bitch', 'bitch', 'bitch', 'bitch']",53,26.5,2
+Johnny Diggson,"['schlampe', 'hure', 'bitch', 'fotze', 'bitch', 'fotze', 'fotze', 'fotze', 'bitch', 'bitch', 'bitch', 'bitch', 'schlampe', 'fotze', 'bitch', 'bitch', 'fotze', 'bitch', 'bitch', 'bitch', 'bitch', 'bitch', 'fotze', 'fotze', 'bitch', 'fotze', 'bitch', 'bitch', 'bitch', 'bitch', 'bitch', 'bitch', 'bitch', 'bitch', 'bitch', 'bitch', 'bitch', 'bitch', 'bitch', 'bitch', 'bitch', 'bitch', 'bitch']",43,26.0,7
+Der Asiate,"['bitch', 'fotze', 'hoe', 'bitch', 'fotze', 'fotze', 'fotze', 'fotze', 'fotze', 'fotze', 'fotze', 'fotze', 'fotze', 'fotze', 'fotze', 'fotze', 'fotze', 'fotze', 'bitch', 'bitch', 'bitch', 'bitch', 'fotze', 'fotze', 'fotze', 'hure', 'bitch', 'bitch', 'bitch', 'bitch', 'bitch', 'fotze', 'hure', 'bitch']",34,25.200000000000003,6
+Lil Lano,"['fotze', 'hoe', 'bitch', 'bitch', 'bitch', 'fotze', 'bitch', 'hoe', 'bitch', 'bitch', 'hoe', 'bitch', 'hoe', 'bitch', 'hoe', 'bitch', 'hoe', 'bitch', 'bitch', 'bitch', 'bitch', 'schlampe']",22,12.1,5
+Timi Hendrix,"['bitch', 'bitch', 'bitch', 'bitch', 'bitch', 'schlampe', 'bitch', 'bitch', 'bitch', 'schlampe', 'schlampe', 'hoe', 'bitch', 'bitch', 'bitch', 'bitch', 'bitch', 'bitch', 'bitch']",19,10.399999999999999,6
+Finch,"['fotze', 'schlampe', 'fotze', 'fotze', 'arschfotze', 'bitch', 'fotze', 'fotze', 'fotze', 'fotze', 'fotze', 'fotze']",12,10.25,4
+Kollegah,"['bitch', 'bitch', 'bitch', 'bitch', 'bitch', 'bitch', 'bitch', 'bitch', 'bitch', 'bitch', 'bitch', 'bitch', 'bitch', 'bitch', 'bitch', 'bitch', 'bitch']",17,8.5,7
+Badmómzjay,"['bitch', 'bitch', 'bitch', 'bitch', 'bitch', 'bitch', 'bitch', 'bitch', 'bitch', 'bitch', 'bitch', 'bitch', 'bitch', 'bitch', 'fotze', 'bitch']",16,8.4,4
+Beyazz,"['bitch', 'bitch', 'bitch', 'bitch', 'bitch', 'bitch', 'bitch', 'bitch', 'bitch', 'bitch', 'bitch', 'bitch', 'bitch', 'bitch', 'bitch']",15,7.5,4
+Harry Quintana,"['bitch', 'bitch', 'bitch', 'bitch', 'bitch', 'bitch', 'bitch', 'bitch', 'bitch', 'bitch', 'bitch', 'bitch', 'bitch', 'bitch']",14,7.0,4
+Salim Montari,"['hoe', 'bitch', 'bitch', 'bitch', 'bitch', 'bitch', 'bitch', 'bitch', 'bitch', 'bitch', 'bitch', 'bitch']",12,6.0,4
+Sinan-G,"['bitch', 'schlampe', 'schlampe', 'fotze', 'bitch', 'hure']",6,4.3,5
+Gzuz,"['fotze', 'schlampe', 'schlampe', 'schlampe']",4,3.3000000000000003,3
+Lance Butters,"['hoe', 'bitch', 'bitch', 'bitch', 'bitch', 'schlampe']",6,3.3,3
+Corus 86,"['bitch', 'schlampe', 'schlampe', 'schlampe']",4,2.9000000000000004,2
+KuchenTV,"['schlampe', 'bitch', 'bitch', 'bitch', 'bitch']",5,2.8,3
+Monk,"['bitch', 'bitch', 'hoe', 'bitch', 'bitch']",5,2.5,3
+Sookee,"['hure', 'hure', 'schlampe']",3,2.4000000000000004,1
+Karate Andi,"['bitch', 'biatch', 'bitch', 'fotze']",4,2.4,3
+Bacapon,"['fotze', 'fotze', 'bitch']",3,2.3,2
+Boba Fettt,"['schlampe', 'fotze', 'bitch']",3,2.2,2
+Taichi,"['bitch', 'bitch', 'bitch', 'bitch']",4,2.0,1
+F.R.,"['bitch', 'bitch', 'bitch', 'bitch']",4,2.0,3
+DJ Reckless,"['bitch', 'fotze', 'bitch']",3,1.9,2
+Alligatoah,"['bitch', 'bitch', 'fotze']",3,1.9,2
+Kool Savas,"['bitch', 'bitch', 'hure']",3,1.8,2
+Äi-Tiem,"['fotze', 'fotze']",2,1.8,2
+Apache 207,"['bitch', 'bitch', 'bitch']",3,1.5,2
+Manny Marc,"['zicke', 'hurentocher']",2,1.4,2
+Rödelheim Hartreim Projekt,"['fotze', 'bitch']",2,1.4,1
+RAF Camora,"['schlampe', 'bitch']",2,1.3,2
+Play69,"['bitch', 'bitch']",2,1.0,2
+Fresh Familee,"['bitch', 'bitch']",2,1.0,1
+Sabrina Setlur,"['bitch', 'bitch']",2,1.0,1
+Prezident,['fotze'],1,0.9,1
+ERRdeKa,['schlampe'],1,0.8,1
+Noah,['hure'],1,0.8,1
+Olexesh,['hure'],1,0.8,1
+Roey Marquis II.,['schlampe'],1,0.8,1
+MOK,['bitch'],1,0.5,1
+Anarchist Academy,['bitch'],1,0.5,1
+Bluthund,['bitch'],1,0.5,1
+DJ Stylewarz,['bitch'],1,0.5,1
+Shiml,['bitch'],1,0.5,1
+Tiavo,['bitch'],1,0.5,1
+Lityway & Yungfijay,['bitch'],1,0.5,1
+Fard,['bitch'],1,0.5,1
+Captain Gips,[],0,0.0,0
+Disarstar,[],0,0.0,0
+Dicht & Ergreifend,[],0,0.0,0
+Creutzfeld & Jakob,[],0,0.0,0
+Albino,[],0,0.0,0
+BRKN,[],0,0.0,0
+A.M.T.,[],0,0.0,0
+Albi,[],0,0.0,0
+Bahar,[],0,0.0,0
+Chabezo,[],0,0.0,0
+Credibil,[],0,0.0,0
+Beginner,[],0,0.0,0
+Die Bandbreite,[],0,0.0,0
+Mr. Schnabel,[],0,0.0,0
+Lena Stoehrfaktor,[],0,0.0,0
+M.I.K.I,[],0,0.0,0
+Kurzer Prozess,[],0,0.0,0
+Lemur,[],0,0.0,0
+Les Babacools,[],0,0.0,0
+Kurdo,[],0,0.0,0
+Fourty,[],0,0.0,0
+Fader Gladiator,[],0,0.0,0
+Farhot,[],0,0.0,0
+Fayan,[],0,0.0,0
+Junge Dichter und Denker,[],0,0.0,0
+Hubert Daviz,[],0,0.0,0
+Kalusha,[],0,0.0,0
+Kid Kapri,[],0,0.0,0
+Schlagzeiln,[],0,0.0,0
+Reflectionz,[],0,0.0,0
+Peter Fox,[],0,0.0,0
+Playboy 51,[],0,0.0,0
+O’Bros,[],0,0.0,0
+Nneka,[],0,0.0,0
+Soko Crew,[],0,0.0,0
+Sons of Gastarbeita,[],0,0.0,0
+T.Wonder,[],0,0.0,0
+Sääftig,[],0,0.0,0
+Symba,[],0,0.0,0
+Sultan Tunc,[],0,0.0,0
+The Ji,[],0,0.0,0
+TJ_beastboy,[],0,0.0,0
+W4C,[],0,0.0,0
+X-plosive,[],0,0.0,0
